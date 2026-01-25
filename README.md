@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋 I'm Aman Rizvi  
 
-<!--
-**Amanrizvi786110/Amanrizvi786110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Python & Django Developer | Tech Enthusiast | Lifelong Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me  
+
+- 🐍 Learning **Python** with a strong focus on **Django**
+- 🌐 Interested in **Web Development & Backend Systems**
+- 📊 Skilled in **Advanced MS Excel**
+- 🧠 Passionate about problem-solving & clean code
+- 🎯 Goal: Become job-ready & financially independent through tech
+
+---
+
+## 🛠️ Skills  
+
+### Programming  
+- Python  
+- Django (Learning)  
+- Flask (Basics)  
+
+### Tools & Technologies  
+- Git & GitHub  
+- VS Code  
+- Advanced MS Excel  
+
+---
+
+## 📚 Currently Learning  
+
+- Django REST Framework  
+- Backend Architecture  
+- APIs & Authentication  
+- Database Design (SQLite / PostgreSQL)
+
+---
+
+## 📂 Projects  
+
+🔹 Beginner projects coming soon  
+🔹 Django web apps (in progress)  
+
+> Stay tuned 🚧 — I believe in *learning by building*
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanrizvi786110&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me  
+
+- 💻 GitHub: [Amanrizvi786110](https://github.com/Amanrizvi786110)
+- 📍 Location: Lucknow, India  
+
+---
+
+⭐ *If you like my work, consider giving a star!*  
