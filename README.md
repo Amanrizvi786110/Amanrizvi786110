@@ -19,12 +19,19 @@
 ### Programming  
 - Python  
 - Django (Learning)  
-- Flask (Basics)  
+- Flask
+- Fastapi (Basic)
+- Javascript
 
 ### Tools & Technologies  
 - Git & GitHub  
 - VS Code  
-- Advanced MS Excel  
+- Advanced MS Excel
+- Antigravity
+- ChatGPt
+- Gemini
+- Cursor
+- Copilot 
 
 ---
 
