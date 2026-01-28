@@ -21,7 +21,7 @@
 - Django (Learning)  
 - Flask
 - Fastapi (Basic)
-- Javascript
+- JavaScript
 
 ### Tools & Technologies  
 - Git & GitHub  
