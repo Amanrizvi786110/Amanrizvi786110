@@ -31,12 +31,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amanrizvi&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amanrizvi&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
@@ -44,10 +45,14 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-snake-dark.svg">
-    <img alt="github snake animation" src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/amanrizvi/amanrizvi/output/github-snake-dark.svg" />
+    <img
+      src="https://raw.githubusercontent.com/amanrizvi/amanrizvi/output/github-snake.svg"
+      alt="snake animation" />
   </picture>
 </p>
+
 
 ---
 
