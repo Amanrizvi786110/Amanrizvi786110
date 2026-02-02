@@ -59,18 +59,7 @@
 ## ✨ Personal Philosophy
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-    font=Fira+Code
-    &size=20
-    &duration=5000
-    &pause=500
-    &color=36BCF7
-    &center=true
-    &vCenter=true
-    &width=700
-    &lines=I+build+clarity+before+complexity.;
-           Consistency+is+my+unfair+advantage.;
-           Small+commits+create+big+futures.;
-           Systems+beat+motivation+every+time.;
-           I+optimize+thinking+before+coding." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5000&pause=1000&color=F7D51D&center=true&vCenter=true&width=700&lines=Clarity+before+complexity.;Code+with+purpose.;Simple+logic+scales+better.;Build+slow.+Build+right.;Discipline+beats+talent." />
 </p>
+
+
