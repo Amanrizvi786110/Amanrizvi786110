@@ -50,7 +50,7 @@
 ## 👾 Pac-Man Contributions (LIVE)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amanrizvi786110/Amanrizvi786110/output/pacman.svg" />
+  <img src="https://github.com/Amanrizvi786110/Amanrizvi786110//blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 
