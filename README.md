@@ -59,7 +59,14 @@
 ## ✨ Personal Philosophy
 
 <p align="center">
+  <!-- Quotes -->
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=5000&pause=1000&color=F7D51D&center=true&vCenter=true&width=700&lines=Clarity+before+complexity.;Code+with+purpose.;Simple+logic+scales+better.;Build+slow.+Build+right.;Discipline+beats+talent." />
 </p>
+
+<p align="center">
+  <!-- Glowing Name -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=2000&color=36BCF7&center=true&vCenter=true&width=400&lines=—+Aman+Rizvi" />
+</p>
+
 
 
