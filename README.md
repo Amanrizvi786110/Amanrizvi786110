@@ -1,69 +1,62 @@
-# Hi 👋 I'm Aman Rizvi  
+<!-- TYPING EFFECT -->
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Aman;Python+Developer+🐍;Django+Backend+Engineer;Learning.+Building.+Scaling.;Code+with+Purpose+⚡" />
+  </a>
+</p>
 
-🚀 Aspiring Python & Django Developer | Tech Enthusiast | Lifelong Learner  
-
----
-
-## 👨‍💻 About Me  
-
-- 🐍 Learning **Python** with a strong focus on **Django**
-- 🌐 Interested in **Web Development & Backend Systems**
-- 📊 Skilled in **Advanced MS Excel**
-- 🧠 Passionate about problem-solving & clean code
-- 🎯 Goal: Become job-ready & financially independent through tech
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 
 ---
 
-## 🛠️ Skills  
+## 🧑‍💻 About Me
 
-### Programming  
-- Python  
-- Django (Learning)  
-- Flask
-- Fastapi (Basic)
-- JavaScript
-
-### Tools & Technologies  
-- Git & GitHub  
-- VS Code  
-- Advanced MS Excel
-- Antigravity
-- ChatGPt
-- Gemini
-- Cursor
-- Copilot 
+- 🐍 Python-focused developer  
+- ⚙️ Django & backend engineering  
+- 🌐 Exploring full-stack & APIs  
+- 🧠 Clean code > clever code  
 
 ---
 
-## 📚 Currently Learning  
+## 🛠 Languages & Tools
 
-- Django REST Framework  
-- Backend Architecture  
-- APIs & Authentication  
-- Database Design (SQLite / PostgreSQL)
-
----
-
-## 📂 Projects  
-
-🔹 Beginner projects coming soon  
-🔹 Django web apps (in progress)  
-
-> Stay tuned 🚧 — I believe in *learning by building*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,git,github,vscode,linux&perline=6" />
+</p>
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanrizvi786110&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🤝 Connect With Me  
+## 🐍 Contribution Snake (LIVE)
 
-- 💻 GitHub: [Amanrizvi786110](https://github.com/Amanrizvi786110)
-- 📍 Location: Lucknow, India  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-snake-dark.svg">
+    <img alt="github snake animation" src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-snake.svg">
+  </picture>
+</p>
 
 ---
 
-⭐ *If you like my work, consider giving a star!*  
+## ✨ Quote I Believe In
+
+> *“Sometimes the elegant implementation is a function.  
+> Not a method. Not a class. Just a function.”*  
+> — **John Carmack**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
