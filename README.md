@@ -43,15 +43,34 @@
 
 ## 🐍 Contribution Snake (LIVE)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/amanrizvi/amanrizvi/output/github-snake-dark.svg" />
-    <img
-      src="https://raw.githubusercontent.com/amanrizvi/amanrizvi/output/github-snake.svg"
-      alt="snake animation" />
-  </picture>
-</p>
+name: Generate Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Amanrizvi786110
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
 
 
 ---
