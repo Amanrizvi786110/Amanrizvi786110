@@ -31,53 +31,30 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanrizvi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amanrizvi786110&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amanrizvi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amanrizvi786110&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ---
 
 ## 🐍 Contribution Snake (LIVE)
 
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Amanrizvi786110
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amanrizvi786110/Amanrizvi786110/output/github-snake.svg" />
+</p>
 
 ---
 
-## ✨ Quote I Believe In
+## ✨ Personal Philosophy
 
-> *“Sometimes the elegant implementation is a function.  
-> Not a method. Not a class. Just a function.”*  
-> — **John Carmack**
+<!-- QUOTE_START -->
+> ✨ **I build clarity before complexity.**
+>  
+> — *Aman Rizvi*
+<!-- QUOTE_END -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
