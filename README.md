@@ -1,6 +1,6 @@
 <!-- TYPING EFFECT -->
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Amanrizvi786110">
     <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Aman;Python+Developer+🐍;Django+Backend+Engineer;Learning.+Building.+Scaling.;Code+with+Purpose+⚡" />
   </a>
 </p>
@@ -46,9 +46,9 @@
 name: Generate Snake
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -69,8 +69,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
 
 
 ---
