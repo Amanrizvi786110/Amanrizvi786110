@@ -1,7 +1,7 @@
 <!-- TYPING EFFECT -->
 <p align="center">
   <a href="https://github.com/Amanrizvi786110">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Aman;Python+Developer+🐍;Django+Backend+Engineer;Learning.+Building.+Scaling.;Code+with+Purpose+⚡" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00E676&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Aman;Python+Developer+🐍;Django+Backend+Engineer;Learning.+Building.+Scaling.;Code+with+Purpose+⚡" />
   </a>
 </p>
 
@@ -23,8 +23,13 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,git,github,vscode,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,js,html,css,git,github,vscode,linux&perline=6" />
 </p>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Assistant-black?style=for-the-badge&logo=github&logoColor=white" />
+
+### 🤖 Tools & Extras
+- GitHub Copilot (AI Pair Programmer)
+- Python antigravity 🌀 (because developers have humor too)
 
 ---
 
